@@ -17,7 +17,7 @@
     <footer class="page-footer" style="background-color: #facac7 !important">
       <div class="container">
         © 2021 Rutter Industries
-        <a class="grey-text text-lighten-4 right" href="#!"
+        <a class="grey-text text-lighten-4 right" href="https://github.com/trutter2/weddings-by-laura.git"
           ><i class="fab fa-github"></i
         ></a>
       </div>

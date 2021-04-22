@@ -50,7 +50,6 @@ app.post('/api/reviews', async (req, res) => {
   const user = await User.findOne({
     _id: req.session.userID
   });
-  console.log(user)
   const review = new Review({
     review: req.body.review,
     user: user,
