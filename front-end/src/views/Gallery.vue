@@ -30,55 +30,55 @@
         <img src="images/IMG_1867.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1868.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1868.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1869.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1869.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1870.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1870.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1871.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1871.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1872.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1872.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1873.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1873.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1874.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1874.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1876.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1876.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1859.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1859.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1877.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1877.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1878.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1878.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1879.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1879.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1880.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1880.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1881.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1881.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1883.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1883.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1884.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1884.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
-        <img src="images/IMG_1885.jpg" width="100%" height="auto" />
+        <img src="images/IMG_1885.JPG" width="100%" height="auto" />
       </div>
       <div class="item">
         <img src="images/IMG_6012.jpg" width="100%" height="auto" />
